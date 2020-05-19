@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.endreman0:java-json:sources:0.10.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/endreman0/java-json/0.10.0/java-json-0.10.0-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/endreman0/java-json/0.10.0/java-json-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/endreman0/java-json/0.10.0/java-json-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
